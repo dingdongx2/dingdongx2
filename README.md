@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 2015-2019 Computer Science Engineering, Hanyang Univ.
 - 2019-2021 Master's degree at Hanyang Univ.
 
-### 💬 Interest in
+### Interest in💬
 
 - Machine learning (Especially vision)
 - Weakly supervised learning
