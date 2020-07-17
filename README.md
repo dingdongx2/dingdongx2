@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ᴡʜᴇʀᴇ ᴛʜᴇʀᴇ's ᴀ ᴡɪʟʟ, ᴛʜᴇʀᴇ's ᴀ ᴡᴀʏ ✨
 
 - 2015-2019 Computer Science Engineering, Hanyang Univ.
-- 2019-2021 Master's degree at Hanyang Univ.
+- 2019-2021 Master's candidate in [AILab](http://ai.hanyang.ac.kr/), at Hanyang Univ.
 
 ### Interest in💬
 
