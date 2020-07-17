@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-### 👩🏻‍💻   Hi there, I'm **Soyoung Park**. 
+### 👩🏻‍💻   Hi there, I'm **Soyoung**. 
 
 ᴡʜᴇʀᴇ ᴛʜᴇʀᴇ's ᴀ ᴡɪʟʟ, ᴛʜᴇʀᴇ's ᴀ ᴡᴀʏ ✨
 
