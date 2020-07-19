@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 - Machine learning (Especially vision)
 - Weakly supervised learning
 - Temporal action localization & Word Embedding 
+
+### Link
+- [homepage](https://22-22.tistory.com/)
+- [linkedIn](https://www.linkedin.com/in/soyoung-park-a00052153/)
