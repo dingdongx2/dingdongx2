@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 
 
-### 👩🏻‍💻   Hi there, I'm **Soyoung**. 
+### 👩🏻‍💻   about **Soyoung** who is thinking
 
 ᴡʜᴇʀᴇ ᴛʜᴇʀᴇ's ᴀ ᴡɪʟʟ, ᴛʜᴇʀᴇ's ᴀ ᴡᴀʏ ✨
 
 - 2015-2019 Computer Science Engineering, Hanyang Univ.
-- 2019-2021 Master's candidate in [AILab](http://ai.hanyang.ac.kr/), Hanyang Univ.
+- (current🌱) 2019-2021 Master's candidate in [AILab](http://ai.hanyang.ac.kr/), Hanyang Univ. 
 
 ### Interest in💬
 
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - Temporal action localization & Word Embedding 
 
 ### Link
-- [homepage](https://22-22.tistory.com/)
+- [homepage(operated by group study)](https://22-22.tistory.com/)
 - [linkedIn](https://www.linkedin.com/in/soyoung-park-a00052153/)
